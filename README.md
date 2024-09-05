@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Criando Bugs desde 12/2023...<br>📚 Eu estou estudando, modelagem de sistemas, Python, Engenharia de Software, desenvolvimento orientado, um pouco de HTML+CSS+JavaScipt<br>🎯 Minhas metas são: Aprender Python, ter mais conhecimento em HTML & CSS, e também banco de dados, como mysql...</p>
+<p align="left">✨ Criando Bugs desde 12/2023...<br>📚 Estou estudando modelagem de sistemas, Python, Engenharia de Software, desenvolvimento orientado, um pouco de HTML+CSS+JavaScipt<br>🎯 Minhas metas são: Aprender Python, ter mais conhecimento em HTML & CSS, e também banco de dados, como mysql...</p>
 
 ###
 
