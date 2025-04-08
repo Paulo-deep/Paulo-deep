@@ -6,11 +6,11 @@
 
 ###
 
-<p align="left">Tenho 18 anos, estou no primeiro semestre da faculdade de analise e desenvolvimento de sistemas, estudo programação desde de dezembro de 2023, onde tive meu primeiro contato através do Gustavo Guanabara, ainda estou focando bastante na parte teórica e parcialmente na parte pratica, exemplos de conteúdo que fazem parte do meu cronograma de estudo é o HTML & CSS, JavaScript e python,</p>
+<p align="left">Tenho 19 anos, estou no primeiro semestre da faculdade de analise e desenvolvimento de sistemas, estudo programação desde de dezembro de 2023, onde tive meu primeiro contato através do Gustavo Guanabara, estou focando bastante na parte pratica, exemplos de conteúdo que fazem parte do meu cronograma de estudo é o HTML & CSS, JavaScript e python,Java, AWS</p>
 
 ###
 
-<p align="left">✨ Criando Bugs desde 12/2023...<br>📚 Estou estudando modelagem de sistemas, Python, Engenharia de Software, desenvolvimento orientado, um pouco de HTML+CSS+JavaScipt<br>🎯 Minhas metas são: Aprender Python, ter mais conhecimento em HTML & CSS, e também banco de dados, como mysql...</p>
+<p align="left">✨ Criando Bugs desde 12/2023...<br>📚 Estou estudando modelagem de sistemas, Python, Engenharia de Software, desenvolvimento orientado, um pouco de HTML+CSS+JavaScipt<br>🎯 Minhas metas são: Aprender Python e Java, ter mais conhecimento em HTML & CSS, e também banco de dados, como mysql...</p>
 
 ###
 
